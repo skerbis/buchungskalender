@@ -1,7 +1,8 @@
 repo_name: skerbis/buchungskalender
 report_id: c6380c9a578cc595461f29317706500c
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T19:04:21+00:00'
+timestamp: '2024-01-05T08:52:35+00:00'
 requested_by: dtpop
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/skerbis/buchungskalender
   detection_source: Repo Metadata
 - name: Hack
   description: A programming language for HHVM that interoperates seamlessly with
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source_url: https://github.com/skerbis/buchungskalender
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/skerbis/buchungskalender
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/skerbis/buchungskalender
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -54,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/skerbis/buchungskalender/blob/main/install/demo/buchungskalender_demo.sql
   detection_source: install/demo/buchungskalender_demo.sql
   last_updated_by: Wolfgang Bund
   last_updated_on: 2021-06-03 06:48:06.000000000 Z
@@ -65,4 +71,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/skerbis/buchungskalender
   detection_source: Repo Metadata
